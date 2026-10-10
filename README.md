@@ -50,3 +50,11 @@ All the assets were created in Pixilart - pixilart.com
 All sound effects were designed with JSFXR - sfxr.me
 
 The music was produced by me in Logic Pro X
+
+## Screenshots
+<img width="958" height="540" alt="Screenshot 2026-10-10 at 15 46 53" src="https://github.com/user-attachments/assets/4020027c-497a-497b-8441-ace17c9f4e8f" />
+
+<img width="961" height="542" alt="Screenshot 2026-10-10 at 15 48 41" src="https://github.com/user-attachments/assets/954b90c1-0225-4da3-b10f-5eea83bbf75a" />
+
+<img width="961" height="542" alt="Screenshot 2026-10-10 at 15 47 53" src="https://github.com/user-attachments/assets/c0b4f640-f3e4-48f6-85ab-b15f78cd8930" />
+
