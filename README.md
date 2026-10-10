@@ -8,6 +8,7 @@ This project was created by following a Unity 2D tutorial by "Game Maker's Toolk
 ## Prerequisites
 
 ### To play the game
+Download the game at [FlappyBirdProject - Releases] (https://github.com/charlie-elkington/FlappyBirdInspiredGame/releases/tag/v1.0.0)
 - No additional software required besides a compatible Operating System
 
 ### To open the project
